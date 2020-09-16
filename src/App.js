@@ -7,7 +7,7 @@ import Content from './Content';
 function App() {
   return (
     <Grid container direction="column">
-		<Grid item> 
+		<Grid item>
 			<Header></Header>
 		</Grid>
 		<Grid item container>
@@ -20,5 +20,4 @@ function App() {
 	</Grid>
   );
 }
-
 export default App;
